@@ -13,20 +13,20 @@
     "node": ">=0.4.7"
   },
   "dependencies": {
-    "cjson": "0.3.2",
+    "cjson": "0.4.0",
     "depd": "1.1.0",
-    "moment": "2.10.6",
+    "moment": "2.17.0",
     "optimist": "0.6.1",
-    "validator": "4.0.5",
+    "validator": "6.1.0",
     "varify": "0.1.1"
   },
   "devDependencies": {
-    "blanket": "1.1.7",
-    "coveralls": "2.11.4",
-    "eslint": "1.4.3",
-    "mocha": "2.3.2",
-    "mocha-lcov-reporter": "0.0.2",
-    "must": "0.12.0",
+    "blanket": "1.2.3",
+    "coveralls": "2.11.15",
+    "eslint": "3.10.2",
+    "mocha": "3.2.0",
+    "mocha-lcov-reporter": "1.2.0",
+    "must": "0.13.2",
     "obj_diff": "0.3.0"
   },
   "scripts": {
